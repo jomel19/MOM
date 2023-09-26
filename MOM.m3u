@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1,Latina HD
+http://190.116.90.43:8000/play/a011
+#EXTINF:-1,America TV HD
+http://190.116.90.43:8000/play/a010
+#EXTINF:-1,Panamericana
+http://190.116.90.43:8000/play/a002
+#EXTINF:-1,ATV
+http://190.116.90.43:8000/play/a005
+#EXTINF:-1,Canal N
+http://190.116.90.43:8000/play/a004
+#EXTINF:-1,RPP
+http://190.116.90.43:8000/play/a00a
+#EXTINF:-1,TV PERU
+http://190.116.90.43:8000/play/a003
+
