@@ -3,10 +3,18 @@
 http://190.116.90.43:8000/play/a011
 #EXTINF:-1,America TV HD
 http://190.116.90.43:8000/play/a010
+#EXTINF:-1,America TV HD
+http://weib-tv.com:80/Luisvelasco/18707daff03f0240/9476
+#EXTINF:-1,America TV HD
+http://weib-tv.com:80/Luisvelasco/18707daff03f0240/9478
 #EXTINF:-1,Panamericana
 http://190.116.90.43:8000/play/a002
+#EXTINF:-1,Panamericana
+http://weib-tv.com:80/Luisvelasco/18707daff03f0240/9479
 #EXTINF:-1,ATV
 http://190.116.90.43:8000/play/a005
+#EXTINF:-1,WILLAX
+http://weib-tv.com:80/Luisvelasco/18707daff03f0240/9495
 #EXTINF:-1,Canal N
 http://190.116.90.43:8000/play/a004
 #EXTINF:-1,RPP
